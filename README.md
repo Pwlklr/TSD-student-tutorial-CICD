@@ -4,7 +4,7 @@ Please **fork** the repo. You can work locally using a code editor, or open it i
 
 ---
 
-# 🟢 Task 1 (5 pts) — CI Quality Gate: Tests + Lint + Formatting
+# 🟢 Task 1 (5 pts) - CI Quality Gate: Tests + Lint + Formatting
 
 ## 🎯 Goal
 Set up a **GitHub Actions CI workflow** that runs automatically for every **Push** and **Pull Request** and blocks merging if:
@@ -51,7 +51,7 @@ Optional (nice):
 
 ---
 
-# 🟡 Task 2 (10 pts) — DevSecOps + PR Automation (CodeQL + Dependabot + PR Comment)
+# 🟡 Task 2 (10 pts) - DevSecOps + PR Automation (CodeQL + Dependabot + PR Comment)
 
 ## 🎯 Goal
 Enhance your repository with **security automation** and **PR feedback** by implementing:
@@ -126,7 +126,7 @@ Enhance your repository with **security automation** and **PR feedback** by impl
 
 ---
 
-# 🔴 Task 3 (15 pts) — Build → Scan → Push Docker image (GitHub Secrets required)
+# 🔴 Task 3 (15 pts) - Build → Scan → Push Docker image (GitHub Secrets required)
 
 ## 🎯 Goal
 Create a GitHub Actions workflow that works like a **delivery pipeline**:
