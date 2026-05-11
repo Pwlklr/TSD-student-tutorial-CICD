@@ -1,7 +1,6 @@
 name: Demo CI (Repo sanity)
 
 on:
-  push:
   pull_request:
     branches: [ "main" ]
   workflow_dispatch:
